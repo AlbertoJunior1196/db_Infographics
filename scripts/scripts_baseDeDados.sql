@@ -1,3 +1,4 @@
+use db_infographics;
 CREATE TABLE  if not exists Books(
 		id INT NOT NULL,
 		nome VARCHAR(255),
